@@ -28,14 +28,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="128"
-     inkscape:cy="97.75"
+     inkscape:cx="238.5"
+     inkscape:cy="187.75"
      inkscape:window-width="2560"
      inkscape:window-height="1417"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer7"
      borderlayer="true"
      width="80mm"
      inkscape:snap-object-midpoints="true"
@@ -493,30 +493,30 @@
      inkscape:groupmode="layer"
      id="layer30"
      inkscape:label="letters"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#dc143c;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="14.784816"
-       y="45.499203"
+       x="12.440348"
+       y="48.593193"
        id="text8344"
-       transform="skewY(30)"><tspan
+       transform="skewY(26.565)"><tspan
          sodipodi:role="line"
          id="tspan8342"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#dc143c;fill-opacity:1;stroke-width:0.264583"
-         x="14.784816"
-         y="45.499203">P</tspan></text>
+         x="12.440348"
+         y="48.593193">P</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#dc143c;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="45.552181"
-       y="91.738907"
+       x="47.896755"
+       y="88.644844"
        id="text25773"
-       transform="skewY(-30)"><tspan
+       transform="skewY(-26.565)"><tspan
          sodipodi:role="line"
          id="tspan25771"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="45.552181"
-         y="91.738907">C</tspan></text>
+         x="47.896755"
+         y="88.644844">C</tspan></text>
   </g>
 </svg>
