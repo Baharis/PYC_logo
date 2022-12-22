@@ -1,2 +1,2 @@
-# PYC
-Repository with misc. stuff for Polish Young Crystallographers society
+# PYC Logo
+Repository with logo for Polish Young Crystallographers society
