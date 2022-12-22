@@ -27,18 +27,20 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="83"
-     inkscape:cy="167.75"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="162.98811"
+     inkscape:cy="145.84077"
      inkscape:window-width="2560"
      inkscape:window-height="1417"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="svg5"
      borderlayer="true"
      width="80mm"
-     inkscape:snap-object-midpoints="true" />
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-midpoints="true" />
   <defs
      id="defs2">
     <clipPath
@@ -163,6 +165,30 @@
          width="100%"
          height="100%"
          clip-path="url(#clipPath2066)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6859">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path6732"
+         id="use6861"
+         style="display:inline;opacity:1"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6863">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path6732"
+         id="use6865"
+         style="display:inline;opacity:1"
+         width="100%"
+         height="100%" />
     </clipPath>
   </defs>
   <g
@@ -410,7 +436,7 @@
        inkscape:groupmode="layer"
        id="layer17"
        inkscape:label="meta_archetypes"
-       style="display:inline">
+       style="display:none">
       <rect
          style="display:inline;opacity:1;fill:#ff00ff;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect2184"
@@ -426,50 +452,19 @@
          x="0"
          y="0" />
       <path
+         style="display:inline;opacity:1;fill:#008080;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 9.6889455,22.5 V 57.500001 L 39.999947,75.000065 70.310838,57.50006 V 22.500066 L 39.999944,5.0000647 Z"
+         id="path6732" />
+      <path
          style="display:inline;opacity:1;fill:#00ffff;stroke:none;stroke-width:0.23185px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 13.438892,24.665037 V 55.334981 L 39.999941,70.670008 66.560892,55.335032 V 24.665094 L 39.999938,9.3301217 Z"
          id="path2747" />
-      <g
-         id="g2294"
-         style="display:inline;opacity:1">
-        <path
-           style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 70.31089,22.5 v 35"
-           id="path2240"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 9.68911,22.5 v 35"
-           id="path2242"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 9.68911,57.5 40,75"
-           id="path2244"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 40,5 70.31089,22.5"
-           id="path2246"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 40,5 9.68911,22.5"
-           id="path2248"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 70.31089,57.5 40,75"
-           id="path2250"
-           sodipodi:nodetypes="cc" />
-      </g>
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer18"
        inkscape:label="meta_handles"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          style="display:inline;opacity:1;fill:#ffff00;stroke:none;stroke-width:8.05929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect2581"
@@ -546,6 +541,68 @@
          d="M 70.31089,57.5 40,75"
          id="path2025"
          sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer25"
+     inkscape:label="back"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer27"
+       inkscape:label="back_right_archetypes"
+       style="display:none">
+      <rect
+         style="display:inline;opacity:1;fill:#dc143c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect2311"
+         width="40"
+         height="80"
+         x="40"
+         y="0" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer26"
+       inkscape:label="back_left_archetypes"
+       style="display:none">
+      <rect
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect2313"
+         width="40"
+         height="80"
+         x="0"
+         y="0" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer28"
+       inkscape:label="back_right_cast"
+       style="display:inline">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect2311"
+         id="use6834"
+         style="display:inline"
+         width="100%"
+         height="100%"
+         clip-path="url(#clipPath6859)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer29"
+       inkscape:label="back_left_cast"
+       style="display:inline">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect2313"
+         id="use6838"
+         style="display:inline"
+         width="100%"
+         height="100%"
+         clip-path="url(#clipPath6863)" />
     </g>
   </g>
   <g
@@ -644,7 +701,9 @@
          xlink:href="#path26077"
          id="use2070"
          style="display:inline"
-         clip-path="url(#clipPath2078)" />
+         clip-path="url(#clipPath2078)"
+         width="100%"
+         height="100%" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -657,7 +716,39 @@
          xlink:href="#path19833"
          id="use2074"
          style="display:inline"
-         clip-path="url(#clipPath2082)" />
+         clip-path="url(#clipPath2082)"
+         width="100%"
+         height="100%" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer30"
+     inkscape:label="letters"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#dc143c;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="14.784816"
+       y="45.499203"
+       id="text8344"
+       transform="skewY(30)"><tspan
+         sodipodi:role="line"
+         id="tspan8342"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#dc143c;fill-opacity:1;stroke-width:0.264583"
+         x="14.784816"
+         y="45.499203">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#dc143c;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="45.552181"
+       y="91.738907"
+       id="text25773"
+       transform="skewY(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan25771"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.2778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="45.552181"
+         y="91.738907">C</tspan></text>
   </g>
 </svg>
