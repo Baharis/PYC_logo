@@ -28,14 +28,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="223"
-     inkscape:cy="24.25"
+     inkscape:cx="128"
+     inkscape:cy="97.75"
      inkscape:window-width="2560"
      inkscape:window-height="1417"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer6"
      borderlayer="true"
      width="80mm"
      inkscape:snap-object-midpoints="true"
@@ -381,9 +381,10 @@
        style="display:none">
       <path
          style="display:inline;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 39.999891,5.000065 70.31089,22.5 70.310781,57.500063 40,75.000126"
+         d="M 39.999891,5.000065 75,22.5 V 57.500063 L 40,75.000126"
          id="path19613"
-         clip-path="none" />
+         clip-path="none"
+         sodipodi:nodetypes="cccc" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -392,9 +393,10 @@
        style="display:none">
       <path
          style="display:inline;fill:none;stroke:#dc143c;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 39.999999,5 9.6890003,22.499935 9.6891098,57.499998 39.99989,75.000061"
+         d="M 39.999999,5 5,22.499935 v 35.000063 l 34.99989,17.500063"
          id="path12886"
-         clip-path="none" />
+         clip-path="none"
+         sodipodi:nodetypes="cccc" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -439,9 +441,10 @@
        style="display:none">
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 70.310893,22.5 -30.31078,17.500065 -1.09e-4,35.000059"
+         d="M 75,22.5 40.000113,40.000065 40.000004,75.000124"
          id="path26077"
-         clip-path="none" />
+         clip-path="none"
+         sodipodi:nodetypes="ccc" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -450,9 +453,10 @@
        style="display:none">
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#dc143c;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 9.6891098,22.5 39.99989,40.000065 39.999999,75.000124"
+         d="m 5,22.5 34.99989,17.500065 1.09e-4,35.000059"
          id="path19833"
-         clip-path="none" />
+         clip-path="none"
+         sodipodi:nodetypes="ccc" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -489,7 +493,7 @@
      inkscape:groupmode="layer"
      id="layer30"
      inkscape:label="letters"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#dc143c;fill-opacity:1;stroke:none;stroke-width:0.264583"
